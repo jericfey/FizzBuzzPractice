@@ -9,3 +9,6 @@ fizzbuzz1.js
 fizzbuzz2.js
 
 - Installed [npm package Inquirer](https://www.npmjs.com/package/inquirer) in order to prompt the user to input fields for the program
+
+**Prompts and Results:**
+![Prompts&Results](./assets/Prompts&Results.jpg)
